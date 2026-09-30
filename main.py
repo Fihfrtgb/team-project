@@ -8,4 +8,4 @@ greet("Faizan")
 
 result = add_numbers(5, 3)
 print("Sum:", result)
-print("Version A")
+print("Version A and Version B merged successfully")
